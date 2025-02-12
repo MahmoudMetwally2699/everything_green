@@ -1,4 +1,4 @@
-.env variables needed
+# .env variables needed
 
 MONGODB_URI=
 # JWT Configuration
